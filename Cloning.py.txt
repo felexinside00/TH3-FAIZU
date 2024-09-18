@@ -48,22 +48,12 @@ def ua():
 logo = (f"""
                                                                                     
                                                                                     
-WWWWWWWW WWWWWWWW NNNNNNNN NNNNNNNN
-W::::::W W::::::W N:::::::N N::::::N
-W::::::W W::::::W N::::::::N N::::::N
-W::::::W W::::::W N:::::::::N N::::::N
- W:::::W WWWWW W:::::W N::::::::::N N::::::N
-  W:::::W W:::::W W:::::W N:::::::::::N N::::::N
-   W:::::W W:::::::W W:::::W N:::::::N::::N N::::::N
-    W:::::W W:::::::::W W:::::W --------------- N::::::N N::::N N::::::N
-     W:::::W W:::::W:::::W W:::::W -:::::::::::::- N::::::N N::::N:::::::N
-      W:::::W W:::::W W:::::W W:::::W --------------- N::::::N N:::::::::::N
-       W:::::W:::::W W:::::W:::::W N::::::N N::::::::::N
-        W:::::::::W W:::::::::W N::::::N N:::::::::N
-         W:::::::W W:::::::W N::::::N N::::::::N
-          W:::::W W:::::W N::::::N N:::::::N
-           W:::W W:::W N::::::N N::::::N
-            WWW WWW NNNNNNNN NNNNNNN
+
+ _____ _    ___ ______   _  __  __  ____    _    _   _    _
+|  ___/ \  |_ _|__  / | | | \ \/ / / ___|  / \  | \ | |  / \
+| |_ / _ \  | |  / /| | | |  \  /  \___ \ / _ \ |  \| | / _ \
+|  _/ ___ \ | | / /_| |_| |  /  \   ___) / ___ \| |\  |/ ___ \
+|_|/_/   \_\___/____|\___/  /_/\_\ |____/_/   \_\_| \_/_/   \_\ 
                                                                                     
 \x1b[1;92m═━═━═━═━═━━═━═━══━═━═━═━═━━═━═━══━═━═━══━═━═━═
 \033[1;92m[\033[1;92m\033[1;34m✔\033[1;92m]DEVELOPER \033[1;91m\033[1;34m: \033[1;92 FAIZU X DARCULA  
@@ -148,7 +138,7 @@ def Subscraption():
  key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
  clear()
  print(logo)
- r1=requests.get("https://raw.githubusercontent.com/FAIZUx/F-1/main/APPROVAL.txt").text
+ r1=requests.get("https://raw.githubusercontent.com/FAIZUx/https:TH3-FAIZU/blob/main/APROVAL.txt").text
  if key1 in r1:
   os.system('clear')
   print(logo)
@@ -179,7 +169,7 @@ def Subscraption():
   input(" Press Enter To Send Key")
   time.sleep(3.5)
   tks = 'Dear%20FAIZU,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Email%20:%20'+lol+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ah+key1
-  os.system('am start https://wa.me/+919910632063?text=' + tks)
+  os.system('am start https://wa.me/+bhak lowde?text=' + tks)
   Subscraption()        
 Subscraption()
 #----------------------------[CODE/END]-----------------------------------#
